@@ -1,0 +1,2 @@
+include ':app', ':Crypto_1', ':crypto_12', ':Crypto_idemia_1'
+rootProject.name='Cryptography'
